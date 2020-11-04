@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="free-parent" />
+        <module name="free-quartz" />
+        <module name="free-service" />
+        <module name="free-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="10">
+      <module name="free-parent" target="1.5" />
+      <module name="free-quartz" target="1.8" />
+      <module name="free-service" target="1.8" />
+      <module name="free-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

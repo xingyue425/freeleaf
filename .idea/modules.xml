@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/free-parent/free-parent.iml" filepath="$PROJECT_DIR$/free-parent/free-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/free-quartz/free-quartz.iml" filepath="$PROJECT_DIR$/free-quartz/free-quartz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/free-service/free-service.iml" filepath="$PROJECT_DIR$/free-service/free-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/free-web/free-web.iml" filepath="$PROJECT_DIR$/free-web/free-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/freeleaf.iml" filepath="$PROJECT_DIR$/.idea/freeleaf.iml" />
+    </modules>
+  </component>
+</project>
